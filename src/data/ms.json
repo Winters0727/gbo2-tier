@@ -1,0 +1,632 @@
+{
+  "raid": {
+    "MSM-04N": {
+      "code": "MSM-04N",
+      "name": "앗그가이"
+    },
+    "RGM-79HC": {
+      "code": "RGM-79HC",
+      "name": "짐 가드 커스텀"
+    },
+    "MS-08TX(DS)": {
+      "code": "MS-08TX(DS)",
+      "name": "이프리트 (DS)"
+    },
+    "MS-06E-3": {
+      "code": "MS-06E-3",
+      "name": "자쿠 플리퍼"
+    },
+    "MS-06FS(SM)": {
+      "code": "MS-06FS(SM)",
+      "name": "자쿠2 FS형 (SM)"
+    },
+    "MS-21C": {
+      "code": "MS-21C",
+      "name": "드랏체"
+    },
+    "EMS-10": {
+      "code": "EMS-10",
+      "name": "주다"
+    },
+    "RGM-79GB": {
+      "code": "RGM-79GB",
+      "name": "하이 부스트 짐"
+    },
+    "YMS-09J": {
+      "code": "YMS-09J",
+      "name": "돔 고속 실험형"
+    },
+    "EMS-13": {
+      "code": "EMS-13",
+      "name": "앗그진"
+    },
+    "MS-06G(AS)": {
+      "code": "MS-06G(AS)",
+      "name": "육전 고기동형 자쿠 (AS)"
+    },
+    "MS-08TX[EXAM]": {
+      "code": "MS-08TX[EXAM]",
+      "name": "이프리트 개량형"
+    },
+    "MS-08TX:N": {
+      "code": "MS-08TX:N",
+      "name": "이프리트 나하트"
+    },
+    "RX-79BD-1": {
+      "code": "RX-79BD-1",
+      "name": "블루 데스티니 1호기"
+    },
+    "MS-06DRC(DR)": {
+      "code": "MS-06DRC(DR)",
+      "name": "데저트 자쿠 (DR)"
+    },
+    "RX-80PR-3": {
+      "code": "RX-80PR-3",
+      "name": "페일라이더 듀라한"
+    },
+    "MS-09G": {
+      "code": "MS-09G",
+      "name": "드왓지"
+    },
+    "RX-79BD-2": {
+      "code": "RX-79BD-2",
+      "name": "블루 데스티니 2호기"
+    },
+    "RGM-79Q": {
+      "code": "RGM-79Q",
+      "name": "짐 쿠엘"
+    },
+    "MS-09R-2(GH)": {
+      "code": "MS-09R-2(GH)",
+      "name": "릭 돔2 (GH)"
+    },
+    "RGM-79N-SH": {
+      "code": "RGM-79N-SH",
+      "name": "실버 헤이즈 개량형"
+    },
+    "MSA-007T": {
+      "code": "MSA-007T",
+      "name": "네로 트레이너"
+    },
+    "YMS-23C": {
+      "code": "YMS-23C",
+      "name": "구울"
+    },
+    "MS-19": {
+      "code": "MS-19",
+      "name": "돌멜"
+    },
+    "RGM-86R[CC]": {
+      "code": "RGM-86R[CC]",
+      "name": "짐3[근접전 사양]"
+    },
+    "RX-80BR": {
+      "code": "RX-80BR",
+      "name": "블랙 라이더"
+    },
+    "RGM-86RV(NS)": {
+      "code": "RGM-86RV(NS)",
+      "name": "짐 NS[우주전 사양] (V)"
+    },
+    "MS-18NF": {
+      "code": "MS-18NF",
+      "name": "티타니아"
+    },
+    "MS-14B(GK)": {
+      "code": "MS-14B(GK)",
+      "name": "고기동형 겔구그 (GK)"
+    },
+    "PMX-002": {
+      "code": "PMX-002",
+      "name": "보리노크 사만"
+    },
+    "RX-78XX(LA)": {
+      "code": "RX-78XX(LA)",
+      "name": "건담 픽시(LA)"
+    },
+    "RX-121-2": {
+      "code": "RX-121-2",
+      "name": "건담 헤이즐 2호기"
+    },
+    "AMX-101E": {
+      "code": "AMX-101E",
+      "name": "슈츠룸 갈루스"
+    },
+    "RX-121-1(HMF)": {
+      "code": "RX-121-1(HMF)",
+      "name": "헤이즐 개량형 고기동 사양"
+    },
+    "RGM-89De(CH)": {
+      "code": "RGM-89De(CH)",
+      "name": "제간 (CH)"
+    },
+    "AMX-117LG": {
+      "code": "AMX-117LG",
+      "name": "가즈 L 그라우"
+    },
+    "RX-78GP02A(BB)": {
+      "code": "RX-78GP02A(BB)",
+      "name": "건담 시작 2호기[BB사양]"
+    },
+    "AGX-04": {
+      "code": "AGX-04",
+      "name": "가베라 테트라"
+    },
+    "ORX-005": {
+      "code": "ORX-005",
+      "name": "갸프랑"
+    },
+    "MSZ-006A1": {
+      "code": "MSZ-006A1",
+      "name": "Z플러스 A1"
+    },
+    "RMS-141(T1)": {
+      "code": "RMS-141(T1)",
+      "name": "제크 아인[제1종 무장]"
+    },
+    "AMS-129(EH)": {
+      "code": "AMS-129(EH)",
+      "name": "기라 줄루 (EH)"
+    },
+    "MSA-0011": {
+      "code": "MSA-0011",
+      "name": "S건담"
+    },
+    "RX-160S": {
+      "code": "RX-160S",
+      "name": "바이아란 커스텀"
+    },
+    "MSK-008(CA)": {
+      "code": "MSK-008(CA)",
+      "name": "디제 (CA)"
+    },
+    "MSN-03(GG)": {
+      "code": "MSN-03(GG)",
+      "name": "야크트 도가 (GG)"
+    },
+    "ORX-013": {
+      "code": "ORX-013",
+      "name": "건담 Mk5"
+    },
+    "RGM-96Xs(A)": {
+      "code": "RGM-96Xs(A)",
+      "name": "제스타[셰자르 부대 사양 A]"
+    },
+    "MSN-06S-2": {
+      "code": "MSN-06S-2",
+      "name": "시난주 스타인 (ZA)"
+    },
+    "RX-93ff": {
+      "code": "RX-93ff",
+      "name": "RX-93ff 뉴 건담"
+    },
+    "MSN-04II": {
+      "code": "MSN-04II",
+      "name": "나이팅게일"
+    },
+    "MSZ-010S": {
+      "code": "MSZ-010S",
+      "name": "강화형 ZZ 건담"
+    }
+  },
+  "general": {
+    "MSM-04N": {
+      "code": "MSM-04N",
+      "name": "앗그가이"
+    },
+    "RGM-79HC": {
+      "code": "RGM-79HC",
+      "name": "짐 가드 커스텀"
+    },
+    "MS-08TX(DS)": {
+      "code": "MS-08TX(DS)",
+      "name": "이프리트 (DS)"
+    },
+    "MS-06E-3": {
+      "code": "MS-06E-3",
+      "name": "자쿠 플리퍼"
+    },
+    "MS-06FS(SM)": {
+      "code": "MS-06FS(SM)",
+      "name": "자쿠2 FS형 (SM)"
+    },
+    "MS-21C": {
+      "code": "MS-21C",
+      "name": "드랏체"
+    },
+    "EMS-10": {
+      "code": "EMS-10",
+      "name": "주다"
+    },
+    "RGM-79GB": {
+      "code": "RGM-79GB",
+      "name": "하이 부스트 짐"
+    },
+    "YMS-09J": {
+      "code": "YMS-09J",
+      "name": "돔 고속 실험형"
+    },
+    "EMS-13": {
+      "code": "EMS-13",
+      "name": "앗그진"
+    },
+    "MS-06G(AS)": {
+      "code": "MS-06G(AS)",
+      "name": "육전 고기동형 자쿠 (AS)"
+    },
+    "MS-08TX[EXAM]": {
+      "code": "MS-08TX[EXAM]",
+      "name": "이프리트 개량형"
+    },
+    "MS-08TX:N": {
+      "code": "MS-08TX:N",
+      "name": "이프리트 나하트"
+    },
+    "RX-79BD-1": {
+      "code": "RX-79BD-1",
+      "name": "블루 데스티니 1호기"
+    },
+    "MS-06DRC(DR)": {
+      "code": "MS-06DRC(DR)",
+      "name": "데저트 자쿠 (DR)"
+    },
+    "RX-80PR-3": {
+      "code": "RX-80PR-3",
+      "name": "페일라이더 듀라한"
+    },
+    "MS-09G": {
+      "code": "MS-09G",
+      "name": "드왓지"
+    },
+    "RX-79BD-2": {
+      "code": "RX-79BD-2",
+      "name": "블루 데스티니 2호기"
+    },
+    "RGM-79Q": {
+      "code": "RGM-79Q",
+      "name": "짐 쿠엘"
+    },
+    "MS-09R-2(GH)": {
+      "code": "MS-09R-2(GH)",
+      "name": "릭 돔2 (GH)"
+    },
+    "RGM-79N-SH": {
+      "code": "RGM-79N-SH",
+      "name": "실버 헤이즈 개량형"
+    },
+    "MSA-007T": {
+      "code": "MSA-007T",
+      "name": "네로 트레이너"
+    },
+    "YMS-23C": {
+      "code": "YMS-23C",
+      "name": "구울"
+    },
+    "MS-19": {
+      "code": "MS-19",
+      "name": "돌멜"
+    },
+    "RGM-86R[CC]": {
+      "code": "RGM-86R[CC]",
+      "name": "짐3[근접전 사양]"
+    },
+    "RX-80BR": {
+      "code": "RX-80BR",
+      "name": "블랙 라이더"
+    },
+    "RGM-86RV(NS)": {
+      "code": "RGM-86RV(NS)",
+      "name": "짐 NS[우주전 사양] (V)"
+    },
+    "MS-18NF": {
+      "code": "MS-18NF",
+      "name": "티타니아"
+    },
+    "MS-14B(GK)": {
+      "code": "MS-14B(GK)",
+      "name": "고기동형 겔구그 (GK)"
+    },
+    "PMX-002": {
+      "code": "PMX-002",
+      "name": "보리노크 사만"
+    },
+    "RX-78XX(LA)": {
+      "code": "RX-78XX(LA)",
+      "name": "건담 픽시(LA)"
+    },
+    "RX-121-2": {
+      "code": "RX-121-2",
+      "name": "건담 헤이즐 2호기"
+    },
+    "AMX-101E": {
+      "code": "AMX-101E",
+      "name": "슈츠룸 갈루스"
+    },
+    "RX-121-1(HMF)": {
+      "code": "RX-121-1(HMF)",
+      "name": "헤이즐 개량형 고기동 사양"
+    },
+    "RGM-89De(CH)": {
+      "code": "RGM-89De(CH)",
+      "name": "제간 (CH)"
+    },
+    "AMX-117LG": {
+      "code": "AMX-117LG",
+      "name": "가즈 L 그라우"
+    },
+    "RX-78GP02A(BB)": {
+      "code": "RX-78GP02A(BB)",
+      "name": "건담 시작 2호기[BB사양]"
+    },
+    "AGX-04": {
+      "code": "AGX-04",
+      "name": "가베라 테트라"
+    },
+    "ORX-005": {
+      "code": "ORX-005",
+      "name": "갸프랑"
+    },
+    "MSZ-006A1": {
+      "code": "MSZ-006A1",
+      "name": "Z플러스 A1"
+    },
+    "RMS-141(T1)": {
+      "code": "RMS-141(T1)",
+      "name": "제크 아인[제1종 무장]"
+    },
+    "AMS-129(EH)": {
+      "code": "AMS-129(EH)",
+      "name": "기라 줄루 (EH)"
+    },
+    "MSA-0011": {
+      "code": "MSA-0011",
+      "name": "S건담"
+    },
+    "RX-160S": {
+      "code": "RX-160S",
+      "name": "바이아란 커스텀"
+    },
+    "MSK-008(CA)": {
+      "code": "MSK-008(CA)",
+      "name": "디제 (CA)"
+    },
+    "MSN-03(GG)": {
+      "code": "MSN-03(GG)",
+      "name": "야크트 도가 (GG)"
+    },
+    "ORX-013": {
+      "code": "ORX-013",
+      "name": "건담 Mk5"
+    },
+    "RGM-96Xs(A)": {
+      "code": "RGM-96Xs(A)",
+      "name": "제스타[셰자르 부대 사양 A]"
+    },
+    "MSN-06S-2": {
+      "code": "MSN-06S-2",
+      "name": "시난주 스타인 (ZA)"
+    },
+    "RX-93ff": {
+      "code": "RX-93ff",
+      "name": "RX-93ff 뉴 건담"
+    },
+    "MSN-04II": {
+      "code": "MSN-04II",
+      "name": "나이팅게일"
+    },
+    "MSZ-010S": {
+      "code": "MSZ-010S",
+      "name": "강화형 ZZ 건담"
+    }
+  },
+  "support": {
+    "MSM-04N": {
+      "code": "MSM-04N",
+      "name": "앗그가이"
+    },
+    "RGM-79HC": {
+      "code": "RGM-79HC",
+      "name": "짐 가드 커스텀"
+    },
+    "MS-08TX(DS)": {
+      "code": "MS-08TX(DS)",
+      "name": "이프리트 (DS)"
+    },
+    "MS-06E-3": {
+      "code": "MS-06E-3",
+      "name": "자쿠 플리퍼"
+    },
+    "MS-06FS(SM)": {
+      "code": "MS-06FS(SM)",
+      "name": "자쿠2 FS형 (SM)"
+    },
+    "MS-21C": {
+      "code": "MS-21C",
+      "name": "드랏체"
+    },
+    "EMS-10": {
+      "code": "EMS-10",
+      "name": "주다"
+    },
+    "RGM-79GB": {
+      "code": "RGM-79GB",
+      "name": "하이 부스트 짐"
+    },
+    "YMS-09J": {
+      "code": "YMS-09J",
+      "name": "돔 고속 실험형"
+    },
+    "EMS-13": {
+      "code": "EMS-13",
+      "name": "앗그진"
+    },
+    "MS-06G(AS)": {
+      "code": "MS-06G(AS)",
+      "name": "육전 고기동형 자쿠 (AS)"
+    },
+    "MS-08TX[EXAM]": {
+      "code": "MS-08TX[EXAM]",
+      "name": "이프리트 개량형"
+    },
+    "MS-08TX:N": {
+      "code": "MS-08TX:N",
+      "name": "이프리트 나하트"
+    },
+    "RX-79BD-1": {
+      "code": "RX-79BD-1",
+      "name": "블루 데스티니 1호기"
+    },
+    "MS-06DRC(DR)": {
+      "code": "MS-06DRC(DR)",
+      "name": "데저트 자쿠 (DR)"
+    },
+    "RX-80PR-3": {
+      "code": "RX-80PR-3",
+      "name": "페일라이더 듀라한"
+    },
+    "MS-09G": {
+      "code": "MS-09G",
+      "name": "드왓지"
+    },
+    "RX-79BD-2": {
+      "code": "RX-79BD-2",
+      "name": "블루 데스티니 2호기"
+    },
+    "RGM-79Q": {
+      "code": "RGM-79Q",
+      "name": "짐 쿠엘"
+    },
+    "MS-09R-2(GH)": {
+      "code": "MS-09R-2(GH)",
+      "name": "릭 돔2 (GH)"
+    },
+    "RGM-79N-SH": {
+      "code": "RGM-79N-SH",
+      "name": "실버 헤이즈 개량형"
+    },
+    "MSA-007T": {
+      "code": "MSA-007T",
+      "name": "네로 트레이너"
+    },
+    "YMS-23C": {
+      "code": "YMS-23C",
+      "name": "구울"
+    },
+    "MS-19": {
+      "code": "MS-19",
+      "name": "돌멜"
+    },
+    "RGM-86R[CC]": {
+      "code": "RGM-86R[CC]",
+      "name": "짐3[근접전 사양]"
+    },
+    "RX-80BR": {
+      "code": "RX-80BR",
+      "name": "블랙 라이더"
+    },
+    "RGM-86RV(NS)": {
+      "code": "RGM-86RV(NS)",
+      "name": "짐 NS[우주전 사양] (V)"
+    },
+    "MS-18NF": {
+      "code": "MS-18NF",
+      "name": "티타니아"
+    },
+    "MS-14B(GK)": {
+      "code": "MS-14B(GK)",
+      "name": "고기동형 겔구그 (GK)"
+    },
+    "PMX-002": {
+      "code": "PMX-002",
+      "name": "보리노크 사만"
+    },
+    "RX-78XX(LA)": {
+      "code": "RX-78XX(LA)",
+      "name": "건담 픽시(LA)"
+    },
+    "RX-121-2": {
+      "code": "RX-121-2",
+      "name": "건담 헤이즐 2호기"
+    },
+    "AMX-101E": {
+      "code": "AMX-101E",
+      "name": "슈츠룸 갈루스"
+    },
+    "RX-121-1(HMF)": {
+      "code": "RX-121-1(HMF)",
+      "name": "헤이즐 개량형 고기동 사양"
+    },
+    "RGM-89De(CH)": {
+      "code": "RGM-89De(CH)",
+      "name": "제간 (CH)"
+    },
+    "AMX-117LG": {
+      "code": "AMX-117LG",
+      "name": "가즈 L 그라우"
+    },
+    "RX-78GP02A(BB)": {
+      "code": "RX-78GP02A(BB)",
+      "name": "건담 시작 2호기[BB사양]"
+    },
+    "AGX-04": {
+      "code": "AGX-04",
+      "name": "가베라 테트라"
+    },
+    "ORX-005": {
+      "code": "ORX-005",
+      "name": "갸프랑"
+    },
+    "MSZ-006A1": {
+      "code": "MSZ-006A1",
+      "name": "Z플러스 A1"
+    },
+    "RMS-141(T1)": {
+      "code": "RMS-141(T1)",
+      "name": "제크 아인[제1종 무장]"
+    },
+    "AMS-129(EH)": {
+      "code": "AMS-129(EH)",
+      "name": "기라 줄루 (EH)"
+    },
+    "MSA-0011": {
+      "code": "MSA-0011",
+      "name": "S건담"
+    },
+    "RX-160S": {
+      "code": "RX-160S",
+      "name": "바이아란 커스텀"
+    },
+    "MSK-008(CA)": {
+      "code": "MSK-008(CA)",
+      "name": "디제 (CA)"
+    },
+    "MSN-03(GG)": {
+      "code": "MSN-03(GG)",
+      "name": "야크트 도가 (GG)"
+    },
+    "ORX-013": {
+      "code": "ORX-013",
+      "name": "건담 Mk5"
+    },
+    "RGM-96Xs(A)": {
+      "code": "RGM-96Xs(A)",
+      "name": "제스타[셰자르 부대 사양 A]"
+    },
+    "MSN-06S-2": {
+      "code": "MSN-06S-2",
+      "name": "시난주 스타인 (ZA)"
+    },
+    "RX-93ff": {
+      "code": "RX-93ff",
+      "name": "RX-93ff 뉴 건담"
+    },
+    "MSN-04II": {
+      "code": "MSN-04II",
+      "name": "나이팅게일"
+    },
+    "MSZ-010S": {
+      "code": "MSZ-010S",
+      "name": "강화형 ZZ 건담"
+    }
+  }
+}

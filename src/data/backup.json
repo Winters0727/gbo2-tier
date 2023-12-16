@@ -1,0 +1,241 @@
+{
+  "raid": {
+    "300": {
+      "red": [
+        {
+          "code": "MSM-04N",
+          "level": 2
+        },
+        {
+          "code": "RGM-79HC",
+          "level": 1,
+          "enableSpaceType": true
+        }
+      ],
+      "yellow": [
+        {
+          "code": "MS-08TX(DS)",
+          "level": 1
+        },
+        {
+          "code": "MS-06E-3",
+          "level": 1,
+          "enableSpaceType": true
+        },
+        {
+          "code": "MS-06FS(SM)",
+          "level": 1
+        }
+      ],
+      "blue": [
+        {
+          "code": "MS-21C",
+          "level": 3
+        },
+        {
+          "code": "EMS-10",
+          "level": 2
+        }
+      ]
+    },
+    "350": {
+      "red": [
+        { "code": "RGM-79B", "level": 1, "enableSpaceType": true },
+        { "code": "YMS-09J", "level": 1 },
+        { "code": "EMS-13", "level": 1 }
+      ],
+      "yellow": [
+        { "code": "MS-06G(AS)", "level": 1 },
+        { "code": "MSM-04N", "level": 3 },
+        { "code": "MS-08TX[EXAM]", "level": 1 },
+        { "code": "MS-08TX:N", "level": 1 },
+        { "code": "RX-79BD-1", "level": 1 }
+      ],
+      "blue": []
+    },
+    "400": {
+      "red": [{ "code": "MS-06DRC(DR)", "level": 1 }],
+      "yellow": [
+        { "code": "RX-80PR-3", "level": 1 },
+        { "code": "MS-09G", "level": 1 },
+        { "code": "RGM-79GB", "level": 2, "enableSpaceType": true },
+        { "code": "YMS-09J", "level": 2 },
+        { "code": "RX-79BD-2", "level": 1, "enableSpaceType": true }
+      ],
+      "blue": [
+        { "code": "RGM-79Q", "level": 1 },
+        { "code": "MS-09R-2(GH)", "level": 1 }
+      ]
+    },
+    "450": {
+      "red": [
+        { "code": "RGM-79N-SH", "level": 1, "enableSpaceType": true },
+        { "code": "MSA-007T", "level": 1 },
+        { "code": "YMS-23C", "level": 1 }
+      ],
+      "yellow": [
+        { "code": "MS-19", "level": 1 },
+        { "code": "RGM-86R[CC]", "level": 1 },
+        { "code": "RX-80BR", "level": 1 }
+      ],
+      "blue": [{ "code": "MS-09R-2(GH)", "level": 2 }]
+    },
+    "500": {
+      "red": [
+        { "code": "RGM-86RV(NS)", "level": 1, "enableSpaceType": true },
+        { "code": "MS-18NF", "level": 1 },
+        { "code": "MS-14B(GK)", "level": 1 }
+      ],
+      "yellow": [
+        { "code": "RX-80BR", "level": 2 },
+        { "code": "PMX-002", "level": 1 },
+        { "code": "RX-78XX(LA)", "level": 1 },
+        { "code": "RX-121-2", "level": 1 }
+      ],
+      "blue": [{ "code": "AMX-101E", "level": 1 }]
+    },
+    "550": {
+      "red": [
+        { "code": "RGM-86RV(NS)", "level": 2 },
+        { "code": "MS-14B(GK)", "level": 2 },
+        { "code": "RX-121-1(HMF)", "level": 1 },
+        { "code": "RGM-89De(CH)", "level": 1 }
+      ],
+      "yellow": [
+        { "code": "AMX-117LG", "level": 1 },
+        { "code": "RX-78GP02A(BB)", "level": 1 },
+        { "code": "AGX-04", "level": 1 },
+        { "code": "RX-121-2", "level": 2 }
+      ],
+      "blue": []
+    },
+    "600": {
+      "red": [],
+      "yellow": [
+        { "code": "ORX-005", "level": 2 },
+        { "code": "RX-78GP02A(BB)", "level": 2 },
+        { "code": "MSZ-006A1", "level": 1 },
+        { "code": "AMX-117LG", "level": 2 },
+        { "code": "RMS-141(T1)", "level": 2 },
+        { "code": "AMS-129(EH)", "level": 1, "enableSpaceType": true },
+        { "code": "MSA-0011", "level": 1 },
+        { "code": "RX-160S", "level": 1 }
+      ],
+      "blue": []
+    },
+    "650": {
+      "red": [{ "code": "MSK-008(CA)", "level": 1, "enableSpaceType": true }],
+      "yellow": [
+        { "code": "MSN-03(GG)", "level": 1, "enableSpaceType": true },
+        { "code": "ORX-013", "level": 1, "enableSpaceType": true },
+        { "code": "RGM-96Xs(A)", "level": 1, "enableSpaceType": true }
+      ],
+      "blue": []
+    },
+    "700": {
+      "red": [
+        { "code": "MSN-06S-2", "level": 1, "enableSpaceType": true },
+        { "code": "RX-93ff", "level": 1 }
+      ],
+      "yellow": [
+        { "code": "MSN-04II", "level": 1 },
+        { "code": "MSZ-010S", "level": 1, "enableSpaceType": true }
+      ],
+      "blue": []
+    }
+  },
+  "general": {
+    "300": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "350": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "400": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "450": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "500": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "550": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "600": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "650": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "700": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    }
+  },
+  "support": {
+    "300": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "350": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "400": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "450": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "500": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "550": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "600": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "650": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    },
+    "700": {
+      "red": [],
+      "yellow": [],
+      "blue": []
+    }
+  }
+}
