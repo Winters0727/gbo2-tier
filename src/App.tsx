@@ -32,16 +32,14 @@ const App = () => {
   const roles: Role[] = ["raid", "general", "support"];
 
   const [role, setRole] = useState<Role>("raid");
-  const [ms, setMs] = useState(MS);
-  const [tier, setTier] = useState(Tier);
 
   const handleClick = (role: Role) => setRole(role);
 
   return (
     <div className="App" style={{ padding: "32px 0" }}>
       <Background>
-        <MSProvider value={ms}>
-          <TierProvider value={tier}>
+        <MSProvider value={MS}>
+          <TierProvider value={Tier}>
             <TableWrapper>
               <Header>건담 배틀 오퍼레이션2 - 티어 리스트</Header>
               <Datetime>
@@ -60,7 +58,7 @@ const App = () => {
                   </Button>
                 ))}
               </ButtonWrapper>
-              <Board role={role} data={tier[role]} />
+              <Board role={role} data={Tier[role]} />
             </TableWrapper>
           </TierProvider>
         </MSProvider>
