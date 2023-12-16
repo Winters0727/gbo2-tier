@@ -39,7 +39,7 @@ export const Footer = styled.footer`
   margin-top: 32px;
   width: max-content;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 20px;
   row-gap: 8px;
 
   & div {
